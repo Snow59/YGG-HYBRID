@@ -19,7 +19,7 @@
 
 ## 🔴 Le problème
 
-Depuis **fin décembre 2024**, YGG a mis en place une **signature individuelle** sur chaque torrent téléchargé.
+Depuis **fin décembre 2025**, YGG a mis en place une **signature individuelle** sur chaque torrent téléchargé.
 
 ### Avant (ça marchait)
 ```
