@@ -2,6 +2,25 @@
 
 > Bypass de la nouvelle protection YGG (signature par torrent) pour Prowlarr/Sonarr/Radarr
 
+## ⚠️ Prérequis Important
+
+**Cet indexeur nécessite un compte YGG avec le statut Turbo.**
+
+Le statut Turbo s'obtient de 2 manières :
+- Via un bon ratio (upload élevé)
+- Via un abonnement payant
+
+### Pourquoi ?
+
+Sans Turbo, YGG impose des restrictions qui rendent l'automatisation impossible :
+- ⏱️ **30 secondes d'attente** par téléchargement
+- 🚫 **Limite de 5 torrents par jour**
+- 🔐 **Token temporaire requis** (généré par JavaScript)
+
+Ces restrictions sont vérifiées **côté serveur**, il n'y a pas de contournement possible.
+
+---
+
 ## 📋 Table des matières
 
 - [Le problème](#-le-problème)
